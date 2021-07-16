@@ -1,5 +1,5 @@
 # Diabetes_Prediction
-Softwares and libraries required:
+Softwares and libraries used:
 
 Google Colaboratory. 
 Kaggle notebook for dataset-PIMA Indian diabetes dataset. 
